@@ -36,7 +36,7 @@ Users should be able to:
 
 [Live site](https://mendez-v.github.io/clipboard-landing/) 👀
 
-<!-- [My Solution in FM](https://mendez-v.github.io/clipboard-landing/) 👀 -->
+[My Solution in FM](https://www.frontendmentor.io/solutions/clipboard-landing-page-using-where-e0h1fvzUIj) 👀
 
 [Repo all my FM challenges](https://github.com/mendez-v/frontend-mentor-challenges) 👀
 
